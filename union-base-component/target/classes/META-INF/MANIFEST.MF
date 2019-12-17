@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: union-base-component
+Implementation-Version: 0.0.1
+Built-By: ASUS
+Implementation-Vendor-Id: com.chengxuunion
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/union-base-component
+Created-By: Maven Integration for Eclipse
+
